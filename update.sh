@@ -7,4 +7,4 @@ git fetch upstream
 git stash
 git pull upstream main
 git push origin main
-git pop
+git stash pop
